@@ -3,3 +3,5 @@
 @media(max-width:720px){.chapter-number{font-size:22px}}
 
 .research-map.two{grid-template-columns:1fr 1fr}.peerfocus-detail{margin-left:50px;border-top:2px solid #a7b9bc;padding-top:18px;max-width:760px}.peerfocus-detail p{font-size:14px;color:var(--muted);margin:0}.research-map.two a{padding-right:15px}@media(max-width:720px){.peerfocus-detail{margin-left:30px}}
+
+.peerfocus-figure{margin:0 0 24px}.peerfocus-figure img{display:block;width:100%;height:auto;background:white;border:1px solid var(--line);border-radius:3px}.peerfocus-figure figcaption{font-size:10px;color:var(--muted);margin-top:8px;line-height:1.6}
